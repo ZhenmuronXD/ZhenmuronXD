@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ZhenmuronXD
-- 👀 I’m a Slap Battles player
 - 🌱 I’m currently learning Python
